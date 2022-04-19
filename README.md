@@ -1,1 +1,2 @@
-# b450m-hdv-r4.0-EFI
+CPU	AMD Ryzen 5 3600 @ 3.6GHz
+Motherboard	Asrock B450 Series
